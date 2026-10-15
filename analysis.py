@@ -18,3 +18,7 @@ highest = ratings.index(max(ratings))
 
 print("Highest Rated Movie:", movies[highest])
 print("Highest Rating:", ratings[highest])
+
+
+
+print('shivam')
